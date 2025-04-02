@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "Chrome Orange",
+  "theme": {
+    "colors": {
+      "frame": [251, 195, 125],
+      "frame_inactive": [251, 195, 125, 255],
+      "ntp_background": [252, 233, 205],
+      "tab_text": [0, 0, 0],
+      "tab_background_text": [87, 73, 59],
+      "bookmark_text": [0, 0, 0],
+      "ntp_text": [0, 0, 0],
+      "ntp_link": [6, 55, 116],
+      "ntp_header": [150, 150, 150],
+      "toolbar": [248, 231, 201],
+      "toolbar_text": [60, 64, 67],
+      "button_background": [0, 0, 0, 0],
+      "omnibox_background": [222, 205, 181]
+    },
+    "tints": {}
+  }
+}
